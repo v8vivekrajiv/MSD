@@ -6,7 +6,7 @@ body
       rgba(76, 126, 219, 0.8),
       rgba(124, 152, 226, 0.7)
     ),
-    url(images/msdedited1.jpg);
+    url("/images/msdedited.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -22,7 +22,7 @@ background-image: linear-gradient(
       rgba(76, 126, 219, 0.8),
       rgba(124, 152, 226, 0.7)
     ),
-    url(images/msdedited1.jpg);
+    url("/images/msdedited.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;*/
@@ -68,7 +68,7 @@ img.headerImage
   border: rgb(199, 196, 195) solid;
   border-radius: 1%;
   width: 50%;
-  content: url("images/msdedited.jpg");
+  content: url("/images/msdedited.jpg");
 }
 
 p span {
